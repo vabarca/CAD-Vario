@@ -1,2 +1,2 @@
 # CAD-Vario
-All the CAD Vario designs
+All the FlyVario CAD designs
